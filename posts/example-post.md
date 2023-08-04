@@ -1,13 +1,13 @@
 ---
-title: "This is an example post"
-author: "Alex Merced"
+title: "My Software Blog"
+author: "Garrett Conliffe"
 category: "example"
-date: "2022-03-13"
+date: "2023"
 bannerImage: "https://isaiahcounselingandwellness.com/wp-content/uploads/2018/06/Tryzens-Blog-Page-Banner.jpg"
 tags:
     - example
 ---
 
-## This is an example blog post
+## A background to my first project
 
-This is sample content. The section above is called Frontmatter where we can add post metadata like title and author. You can add as little or as many properties in the frontmatter using YML syntax.
+My first project is a Sports Team generator. I created this CRUD application because growing up my brother and I always had our own fantasy leagues. To show him how far I've come along in my self taught coding journey I created this application.

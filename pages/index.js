@@ -11,7 +11,7 @@ export default function Home() {
     <MainWrapper>
 
       <Row>
-        <Heading> I am {about.name}</Heading><div>
+        <Heading> Welcome to my Portfolio, have a look around!</Heading><div>
           <img src={about.headshot} alt={about.title}/>
         </div>
       </Row>
@@ -21,8 +21,26 @@ export default function Home() {
       <Row>
         <p>{about.description}
         <br/><br/>
-        My Skills:<br/> 
-        {about.skills}</p>
+        <br/>
+        Skills<br/>
+        <br/>
+        Languages:<br/> 
+        {about.languages}<br/>
+        <br/>
+        Database:<br/>
+        {about.database}<br/>
+        <br/>
+        Frameworks:<br/>
+        {about.frameworks}
+        </p>
+      </Row>
+
+
+
+      <Row>
+        <p>
+        <br/><br/>
+        </p>
       </Row>
 
 
